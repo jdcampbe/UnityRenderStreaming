@@ -53,7 +53,7 @@ The web server's .exe file is located under `Assets/~bin/`. Running the file wil
 
 <img src="../images/launch_webserver_explorer.png" width=500 align=center>
 
-Confirm that the following log displays in the command prompt. The web server's address should be displayed. Details on web  server command options can be found on the [Web server](webserver_EN.md) page.
+Confirm that the following log displays in the command prompt. The web server's address should be displayed. Details on web  server command options can be found on the [Web server](webserver.md) page.
 
 <img src="../images/launch_webserver_cmd.png" width=400 align=center>
 
